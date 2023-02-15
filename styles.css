@@ -42,10 +42,6 @@ header nav {
   margin-top: -15px;
 }
 
-main {
-  
-}
-
 #hero {
   padding: 10px;
   display: block;
@@ -71,7 +67,6 @@ section {
 }
 
 article {
-  display: inline-block;
   float: right;
   padding: 10px;
 }
@@ -93,7 +88,6 @@ button:hover {
 }
 
 .sidekick {
-  display: inline-block;
   float: left;
 }
 
